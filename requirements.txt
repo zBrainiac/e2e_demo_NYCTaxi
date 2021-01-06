@@ -1,0 +1,12 @@
+certifi
+chardet
+idna
+numpy
+panda
+pandas
+pandas-schema
+python-dateutil
+pyspark
+findspark
+pytz
+pyspark-stubs
